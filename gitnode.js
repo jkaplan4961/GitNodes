@@ -21,3 +21,24 @@
 
 // to commit your files, use git commit -m " Your message here"
 
+// to create a new branch use git branch <new branch name>
+
+or
+// to create new branch and switch to it use git checkout -b <branch name>
+// to see all history use git log <branch name>
+
+// to delete a branch, use git branch -D <branch name>
+
+// my boss stinks and I dont like him
+
+// to remove an unstaged commit, use git reset <file name>
+// to remove an entire commit, use git reset --hard <commit hash BEfore the ones you want removed>
+
+// to add remote branch
+// check if any exist using git remote -v
+// if none exist, and you've created a repo on Github
+// run git remote add <name_of_remote_stream> <github_repo_url
+
+// to push github
+// git push <name _of_remoteStream> <branch_of_branch>
+// you must sit on the branch you are pushing to
